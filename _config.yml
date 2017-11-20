@@ -1,0 +1,16 @@
+title: wowser.cf
+email: wgdev@protonmail.com
+description: personal blog
+author: Luigi
+baseurl: ""
+url: "https://wowser.cf"
+github_username:  wuiji
+encoding: UTF-8
+permalink: none
+mascot: /assets/mascot.png
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+highlighter: rouge
