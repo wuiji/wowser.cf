@@ -217,8 +217,8 @@ h1 + p {
 @media (min-width: 481px) and (max-width: 767px) {
   .wrapper {
     width: 100vw;
-    height: 75vh;
-    margin-top: 0vh auto;
+    height: 70vh;
+    margin-top: 30vh;
   }
 
   .head-wrapper {
@@ -252,7 +252,7 @@ h1 + p {
 @media (min-width: 481px) and (max-width: 767px) and (orientation: landscape){
   .wrapper {
     width: 100vw;
-    margin-top: 45vh;
+    margin-top: 30vh;
   }
 }
 
@@ -264,8 +264,8 @@ h1 + p {
 @media (min-width: 320px) and (max-width: 480px) {
   .wrapper {
     width: 100vw;
-    height: 75vh;
-    margin-top: 0vh auto;
+    height: 70vh;
+    margin-top: 30vh;
   }
 
   .head-wrapper {
