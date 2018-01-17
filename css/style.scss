@@ -217,8 +217,8 @@ h1 + p {
 @media (min-width: 481px) and (max-width: 767px) {
   .wrapper {
     width: 100vw;
-    height: 50vh;
-    margin-top: 30vh;
+    height: 75vh;
+    margin-top: 0vh auto;
   }
 
   .head-wrapper {
@@ -264,8 +264,8 @@ h1 + p {
 @media (min-width: 320px) and (max-width: 480px) {
   .wrapper {
     width: 100vw;
-    height: 50vh;
-    margin-top: 30vh;
+    height: 75vh;
+    margin-top: 0vh auto;
   }
 
   .head-wrapper {
